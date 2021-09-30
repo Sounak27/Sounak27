@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sounak27
+- 👋 Hi, I’m Sounak Dutta
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Btech
 - 💞️ I’m looking to collaborate on ...
